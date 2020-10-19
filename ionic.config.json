@@ -1,8 +1,5 @@
 {
-  "name": "Bookee",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "react",
-  "id": "1cd7b8c9"
+  "name": "myApp",
+  "integrations": {},
+  "type": "angular"
 }
